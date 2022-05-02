@@ -1,4 +1,3 @@
-
 import axios from 'axios';
 // action types
 export const LOGIN = 'LOGIN';
